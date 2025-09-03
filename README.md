@@ -13,12 +13,21 @@ The version of python:
   ```
 
 ### Installation
+1. Clone this repository to your local machine:
 
-You can use pip to install the required packagess.
+   ```sh
+   git clone git@github.com:zhf3564859793/LLMCopolymerDesign.git
+   ```
+2. Navigate to the project directory:
 
-  ```sh
-  pip install requirements.txt -r
-  ```
+   ```sh
+   cd LLMCopolymerDesign
+   ```
+3. Install the required packages using pip:
+
+   ```sh
+   pip install -r requirements.txt
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
