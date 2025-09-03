@@ -2,7 +2,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the code for [** **].
+This is the code for [** Accelerating Copolymer Discovery: From Automated Literature Mining to de novo Design Using Large Language Models **].
 
 ### Prerequisites
 
