@@ -16,7 +16,7 @@ The version of python:
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone git@github.com:zhf3564859793/LLMCopolymerDesign.git
+   git clone [git@github.com:zhf3564859793/LLMCopolymerDesign.git](https://github.com/zhf3564859793/LLMCopolymerDesign.git)
    ```
 2. Navigate to the project directory:
 
