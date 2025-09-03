@@ -9,7 +9,7 @@ This is the code for **Accelerating Copolymer Discovery: From Automated Literatu
 The version of python:
 
   ```sh
-  python==3.9.19
+  python==3.8.0
   ```
 
 ### Installation
