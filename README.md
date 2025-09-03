@@ -38,3 +38,6 @@ To extract copolymer information from scientific literature, follow these steps:
 The `QSPR_copolymer.ipynb` notebook contains the implementation of a Random Forest model trained on manually annotated data and LLM-extracted data. This model predicts the glass transition temperature ($T_g$) and melting temperature ($T_m$) of copolymers, enabling quantitative structure-property relationship (QSPR) analysis.
 
 ## 3. Inverse Model
+
+The `mingpt_copolymer_real_Tg.ipynb`  notebook provides a method to generate copolymers with specified properties, such as a target glass transition temperature (Tg), using a generative model based on the minGPT framework.
+
