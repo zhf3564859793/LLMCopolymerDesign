@@ -4,6 +4,8 @@
 
 This is the code for **Accelerating Copolymer Discovery: From Automated Literature Mining to de novo Design Using Large Language Models**.
 
+![image](https://github.com/zhf3564859793/LLMCopolymerDesign/blob/main/Figure/Figure1.jpg)
+
 ### Prerequisites
 
 The version of python:
