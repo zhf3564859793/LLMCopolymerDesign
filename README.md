@@ -52,3 +52,8 @@ The `QSPR_copolymer.ipynb` notebook contains the implementation of a Random Fore
 
 The `mingpt_copolymer_real_Tg.ipynb`  notebook provides a method to generate copolymers with specified properties, such as a target $T_g$, using a generative model based on the minGPT framework.
 
+## Acknowledgments
+
+* [PolyGen](https://github.com/TRI-AMDD/PolyGen)
+* [minGPT](https://github.com/karpathy/minGPT)
+
