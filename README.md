@@ -30,6 +30,12 @@ The version of python:
    ```sh
    pip install -r requirements.txt
 
+4. For polymer information extraction, you need to install openai.
+   
+   ```sh
+   pip install openai
+
+
 <!-- USAGE EXAMPLES -->
 ## Usage
 
