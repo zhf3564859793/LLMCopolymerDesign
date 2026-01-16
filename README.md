@@ -2,7 +2,7 @@
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is the code for **Large language models for automated data extraction and inverse design of copolymers with targeted glass transition temperatures**.
+This is the code for [**Large language models for automated data extraction and inverse design of copolymers with targeted glass transition temperatures**](https://www.sciencedirect.com/science/article/pii/S1385894726000902).
 
 ![image](https://github.com/zhf3564859793/LLMCopolymerDesign/blob/main/Figure/Figure1.jpg)
 
