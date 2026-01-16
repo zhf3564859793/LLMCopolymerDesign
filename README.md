@@ -57,3 +57,15 @@ The `mingpt_copolymer_real_Tg.ipynb`  notebook provides a method to generate cop
 * [PolyGen](https://github.com/TRI-AMDD/PolyGen)
 * [minGPT](https://github.com/karpathy/minGPT)
 
+## How to cite
+
+```bibtex
+@article{zhou2026large,
+  title={Large language models for automated data extraction and inverse design of copolymers with targeted glass transition temperatures},
+  author={Zhou, Haifan and Fang, Yue and Ma, Hancheng and Roxas, Alexander Perez and Deng, Puqing and Zhang, Guozhen and Wang, Yiming and Zhang, Yuxuan and Zhou, Wenjing and Li, Linyan and others},
+  journal={Chemical Engineering Journal},
+  pages={172634},
+  year={2026},
+  doi={https://doi.org/10.1016/j.cej.2026.172634},
+  publisher={Elsevier}
+}
