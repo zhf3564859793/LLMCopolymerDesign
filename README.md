@@ -35,7 +35,6 @@ The version of python:
    ```sh
    pip install openai
 
-
 <!-- USAGE EXAMPLES -->
 ## Usage
 
